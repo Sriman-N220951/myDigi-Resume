@@ -4,6 +4,6 @@ $('.openModal').click(function(){
 $('#projectModal').modal('show');
 });
 
-$('[data-bs-toggle="tooltip"]').tooltip();
+$('[data-bs-toggle="tooltip"]').tooltip(); 
 
 });
